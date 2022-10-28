@@ -1,5 +1,5 @@
 # Unseen Studios
-#### Unseen Studios is a development community that bots get create by UnseenAcoustics.
+#### UnseenAcoustics creates bots for the development community known as Unseen Studios.
 
 
 ### Usefull information:
